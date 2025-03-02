@@ -2,6 +2,9 @@
 
 This is a simple CRUD API built using FastAPI for managing books. The API allows users to create, read, update, and delete book records.
 
+## Web View
+![FastAPI_Dashboard](https://github.com/Vishal3550/FastAPI-CRUD-For-Book-API/blob/main/FastAPI_View.png)
+
 ## Features
 
 - **Create a Book** (`POST /book`)
